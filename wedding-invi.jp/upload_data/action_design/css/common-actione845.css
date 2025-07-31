@@ -7966,7 +7966,7 @@ print {
   transform-origin: center;
   /* max-width: 960px; */
   max-width: 750px;
-  object-fit: cover;
+  object-fit: contain;
   margin: auto;
 }
 
