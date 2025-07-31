@@ -7964,8 +7964,8 @@ print {
   background-size: cover;
   -webkit-transform-origin: center;
   transform-origin: center;
-  /*max-width: 960px;*/
-  max-width: 750px;
+  max-width: 960px;
+  /* max-width: 750px; */
   object-fit: cover;
 }
 
