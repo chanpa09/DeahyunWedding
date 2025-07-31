@@ -8022,7 +8022,7 @@ print {
 }
 
 .tm-Hero_TextBase {
-  /* visibility: hidden; */
+  visibility: hidden;
 }
 
 .tm-Hero_TextImages {}
